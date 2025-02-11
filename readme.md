@@ -1,3 +1,5 @@
+FAMCS BSU 2 course 9 group Hontarau Ivan
+
 # Project requirements
 
 - cmake version 3.10 or greater
