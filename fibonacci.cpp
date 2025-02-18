@@ -1,6 +1,5 @@
 #include <bits/stdc++.h>
 #include "fibonacci.h"
-using namespace std;
 
 unsigned long long Fibonacci::CalculateFibonacci(unsigned int n) {
 
